@@ -1,0 +1,1 @@
+2025-07-13 18:23:23 | {"order_id":"THRIFT-00001", "transaction_status":"settlement", "transaction_id":"MID-00001"}
